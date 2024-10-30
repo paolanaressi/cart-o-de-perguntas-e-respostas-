@@ -1,23 +1,63 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Capitais',
+    'Qual a capital do estado de Santa Catarina?',
+    'Florianópolis'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Capitais',
+    'Qual a capital do Paraná?',
+    'Curitiba'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Capitais',
+    'Qual a capital de São Paulo?',
+    'São Paulo'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Capitais',
+    'Qual a capital do estado de Minas Gerais?',
+    'Belo Horizonte'
 )
+
+criaCartao(
+    'Capitais',
+    'Qual a capital do estado de Mato Grosso do Sul?',
+    'Campo Grande'
+)
+
+criaCartao(
+    'Capitais',
+    'Qual a capital do estado de Rio de Janeiro?',
+    'Rio de Janeiro'
+)
+
+criaCartao(
+    'Capitais',
+    
+    'Qual a capital do estado de Espírito Santo?',
+    'Vitória'
+)
+
+criaCartao(
+    'Capitais',
+    'Qual a capital do estado de Goiás?',
+    'Goiânia'
+
+)
+
+criaCartao(
+    'Capitais',
+    'Qual a capital do estado de Mato Grosso?',
+    'Cuiabá'
+
+    )
+
+criaCartao(
+    'Capitais',
+    'Qual a capital do estado de Rondônia?',
+    'Porto Velho'
+    )
+    
